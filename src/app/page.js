@@ -1,13 +1,14 @@
-import Carousel_Custom from "../components/Carousel_Custom";
+import Leaderboard from "../components/Carousel_Custom";
 import Events from "../components/Events";
-import MasonaryGrid from "../components/MasonaryGrid";
-
-
+import Landing from "./landing/page"
+import About from '../app/about-us/page'
 export default function Home() {
   return (
     <>
-      <Carousel_Custom/>
+      <Landing/>
       <Events/>
+      <About/>
+      <Leaderboard/>
     </>
 
   );
