@@ -93,5 +93,14 @@
     "long_date": "Coming soon..",
     "long_desc": "An Intern Talk is an event organized by a society where current interns and recent graduates share their experiences, insights, and advice on navigating the world of internships and early-career opportunities. This event provides a platform for interns to discuss their internship journeys, challenges faced, lessons learned, and tips for success. Attendees will hear from a diverse panel of speakers who have completed internships in various industries, companies, and roles, offering valuable perspectives and practical advice. The Intern Talk covers topics such as finding internships, preparing for interviews, adapting to new work environments, building professional relationships, and making the most of internship experiences. Participants will have the opportunity to ask questions, engage in discussions, and connect with peers who are embarking on their internship journeys. Whether you are a student seeking internship opportunities or an intern looking to enhance your skills, the Intern Talk offers valuable insights and guidance to help you navigate the internship landscape and kickstart your career. Join us for an informative and inspiring event that empowers interns to thrive in their professional development journey.",
     "event_type": "Virtual Event"
+  },
+  {
+    "event": "CodeArena 26",
+    "image": "",
+    "date": "2026-04-15",
+    "desc": "The Ultimate Competitive Programming Battle",
+    "long_date": "April 15, 2026",
+    "long_desc": "",
+    "event_type": ""
   }
 ]

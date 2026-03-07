@@ -52,14 +52,26 @@ const Events = () => {
         </div>
       </CardContent>
       <CardFooter>
-        <Button
-          onClick={() => router.push(`/events/${event.event}`)}
-          className="explore-button w-full"
-          variant="outline"
-        >
-          Explore
-        </Button>
-      </CardFooter>
+
+  {event.event === "CodeArena 26" && (
+    <Button
+      onClick={() => window.open("https://your-apply-link.com")}
+      className="explore-button w-full"
+      variant="outline"
+    >
+      Apply Now
+    </Button>
+  )}
+
+  <Button
+    onClick={() => router.push(`/events/${event.event}`)}
+    className="explore-button w-full"
+    variant="outline"
+  >
+    Explore
+  </Button>
+
+</CardFooter>
     </Card>
   );
 

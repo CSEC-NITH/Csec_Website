@@ -16,5 +16,10 @@
         "desc":"Basics to Linux workshop was an engaging event that introduced participants to the basics of the Linux operating system. Participants learned how to navigate the Linux file system, use the command line interface, and perform common tasks like creating files, directories, and running programs. They also learned about the history of Linux and its importance in the tech industry.",
         "image":"https://images.unsplash.com/photo-1720887236665-43caad593cdf?q=80&w=1836&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "date":"Coming soon.."
+    },
+    {
+        "event":"CodeArena 26",
+        "desc":"",
+        "image":"",
+        "date":"2026-04-15"
     }
-]
