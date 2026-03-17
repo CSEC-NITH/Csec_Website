@@ -1,6 +1,6 @@
 import "./globals.css";
 import { Inria_Sans, Poppins, Sansita, Inter } from "next/font/google";
-import Navbar from "../components/Navbar";
+import Nav from "../components/Navbars";
 import CanvasAnimation from "../components/CanvasAnimation";
 export const metadata = {
   title: "CSEC",
@@ -41,7 +41,7 @@ export default function RootLayout({ children }) {
         <div className="fixed top-0 left-0 w-full h-full z-[-1]">
           <CanvasAnimation />
         </div>
-        <Navbar />
+        
         {children}
       </body>
     </html>
